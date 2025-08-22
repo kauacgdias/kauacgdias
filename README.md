@@ -1,5 +1,6 @@
+# KauaDias
 
-## Opa! Beleza 👾 
+## Opa! Beleza 👾
 
 ####
 
@@ -12,6 +13,10 @@
 
 ##
 ### Skills
+
+<p>
+    Viciado no frot-end
+<p/>
 
 <img 
     align="left" 
