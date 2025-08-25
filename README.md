@@ -5,8 +5,6 @@
 ####
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kawan_gomes64/)
-[![discurd](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-[![discurd](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ![Kaua GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaCGDias&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCGDias&layout=compact&theme=tokyonight)
