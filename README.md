@@ -15,7 +15,7 @@
 ### Skills
 
 <p>
-    Viciado no frot-end
+    Viciado no front-end
 <p/>
 
 <img 
