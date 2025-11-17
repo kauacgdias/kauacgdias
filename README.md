@@ -66,7 +66,10 @@
 <br>
 <br>
 
-![Image](https://github.com/user-attachments/assets/e0c931cb-67ab-4f9a-90eb-fc31e6615708)
+![Image](https://www.fightersgeneration.com/characters4/terry-powergyser.gif)
+![Image](https://www.fightersgeneration.com/characters4/snk-terry.gif)
+![Image](https://www.fightersgeneration.com/characters4/terry-hattoss-win.gif)
+
    
 
 
